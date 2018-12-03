@@ -1,0 +1,6 @@
+npm init to generate package
+install node, mongoose, mocha using npm install option
+make connection file which uses mongoose
+set up test environment which uses mocha
+create model whoch is basicaly a collection and schema which is structure of data in collection
+
